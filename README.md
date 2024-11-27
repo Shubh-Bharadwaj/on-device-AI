@@ -1,7 +1,5 @@
 # On-Device AI Deployment 🌟
 
-This project is all about equipping you with the skills to bring AI beyond the cloud and deploy it directly on devices like smartphones, IoT devices, robots, AR/VR headsets, and more. With billions of edge devices ready to run optimized AI models, this course enables you to unlock their potential with practical deployment strategies.
-
 **🚀 Project Overview**
 
 This project explores the fundamentals of on-device AI deployment with the following key components:
